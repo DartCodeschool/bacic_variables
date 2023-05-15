@@ -1,0 +1,1 @@
+// Declare a variable called "isStudent" of type boolean and assign true or false based on whether you are a student or not.

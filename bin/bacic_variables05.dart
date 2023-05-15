@@ -1,0 +1,1 @@
+//Create a variable called "height" of type double and assign your height in meters as the value. 

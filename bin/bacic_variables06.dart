@@ -1,0 +1,1 @@
+// Declare a variable called "numSiblings" of type int and assign the number of siblings you have as the value.

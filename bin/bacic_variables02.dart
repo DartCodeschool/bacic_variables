@@ -1,0 +1,1 @@
+// Declare a variable called "age" of type int and assign your age as the value.

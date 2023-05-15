@@ -1,0 +1,1 @@
+// Create a variable called "favoriteColor" of type String and assign your favorite color as the value.
